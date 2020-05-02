@@ -1,0 +1,63 @@
+
+body {
+  background-image:url("http://2.bp.blogspot.com/-8OHNXeVlgAY/UEWeW7kAzuI/AAAAAAAADVo/83-Ck2fMx0M/s1600/Red-Curtain-Background.jpg");
+  height:1200px;
+  background-repeat: no-repeat;
+  justify-content: center;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+  font-size: 20px;
+  color : blue; 
+  /* color:white; */
+  margin-left:100px;
+  margin-right:100px;
+  font-family: 'Bangers';
+ 
+}
+#addToList{
+  display: none;
+}
+
+.jumbotron {
+  background-color:black;
+  text-align: center;
+  font-size: 90px;
+  height:80px;
+  margin-top: 40px;
+  margin-left:100px;
+ 
+}
+.head{
+  margin-top: -140px;
+}
+#reel{
+  padding-top:50px;
+  padding-left:50px;
+  width:300px;
+  height:300px;
+  transform: rotate(30deg);
+}
+
+#enter{
+  padding-right:4px;
+}
+
+.card-body{
+  color:black;
+}
+
+.intro{
+  padding-top: 50px;
+  padding-right:160px;
+  text-align: center;
+  font-size: 30px;
+}
+ul{
+  list-style-type:none;
+}
+.input{
+  margin-left: 100px;
+
+}
